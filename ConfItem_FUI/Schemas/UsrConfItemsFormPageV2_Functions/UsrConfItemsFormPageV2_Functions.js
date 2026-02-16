@@ -15,6 +15,7 @@ define("UsrConfItemsFormPageV2_Functions", [
       ctx.IsSitePurposeReadOnly = !canEditConfItem;
       ctx.IsCIRegularUpdateReadOnly = !canEditConfItem;
       console.log(ctx.IsSitePurposeReadOnly);
+      console.log("Hello world");
     },
 
     /*
