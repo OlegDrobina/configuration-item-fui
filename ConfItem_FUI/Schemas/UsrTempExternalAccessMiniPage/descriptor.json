@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0e9dafb8-6df2-4ae9-91df-6ccaf9460b37",
+    "Name": "UsrTempExternalAccessMiniPage",
+    "ModifiedOnUtc": "\/Date(1770724886000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Temporary external access mini page",
+    "DependsOn": []
+  }
+}

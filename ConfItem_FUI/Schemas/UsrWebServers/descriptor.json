@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "208c6eac-0842-4626-981c-67e36193437c",
+    "Name": "UsrWebServers",
+    "ModifiedOnUtc": "\/Date(1770897176000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Web Servers",
+    "DependsOn": []
+  }
+}

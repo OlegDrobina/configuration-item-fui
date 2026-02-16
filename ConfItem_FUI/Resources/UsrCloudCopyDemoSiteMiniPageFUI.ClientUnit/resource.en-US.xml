@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Cloud copy demo site mini page Freedom UI" />
+			<Item Name="LocalizableStrings.addRecord_3cesvw1_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_8o26wy0_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_95hkt7y_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_enn80t3_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ql8c0w9_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Label_luqh8e2_caption.Value" Value="Copy demo site" />
+			<Item Name="Parameters.184cbe14-46cc-a9ba-12c2-28499d3981e9.Caption" Value="Site" />
+			<Item Name="Parameters.2c96eade-2bf9-a5af-9eff-23ae24d438d6.Caption" Value="Current server block type" />
+			<Item Name="Parameters.629788db-406c-81a6-bb43-b173e26a28b6.Caption" Value="Destination data center" />
+			<Item Name="Parameters.9803096e-6121-f677-bec2-2dc96d531d38.Caption" Value="Destination server block type" />
+			<Item Name="Parameters.b7b2feb9-e8e6-833a-de05-ea0426692f7f.Caption" Value="New site name" />
+			<Item Name="Parameters.d2b2a764-70e9-c7ba-ed58-74f1652aa140.Caption" Value="Current data center" />
+		</Items>
+	</Group>
+</Resources>

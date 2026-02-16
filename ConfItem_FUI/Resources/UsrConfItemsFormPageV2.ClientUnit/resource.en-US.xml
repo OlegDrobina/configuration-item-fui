@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Configuration item form page V2" />
+			<Item Name="LocalizableStrings.ActionsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.addRecord_0raiiua_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_5qwttam_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_8en6r0l_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_a1unxks_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fnrpluz_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_gfynk0h_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_i27rzy2_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_kbv1ff2_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_mj4fsj6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_odbaftf_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_tv9mock_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.BackupClientDatabaseMenuItem_caption.Value" Value="Backup client database" />
+			<Item Name="LocalizableStrings.CreateDemoSiteCopyMenuItem_caption.Value" Value="Create demo site copy" />
+			<Item Name="LocalizableStrings.CreateDemoSiteMenuItem_caption.Value" Value="Create demo site" />
+			<Item Name="LocalizableStrings.CreateWebsiteCopyMenuItem_caption.Value" Value="Create website copy" />
+			<Item Name="LocalizableStrings.DataGrid_vygsqseDS_Name.Value" Value="DB Server Name" />
+			<Item Name="LocalizableStrings.DataGrid_y3y0n17DS_Name.Value" Value="Web Server Name" />
+			<Item Name="LocalizableStrings.DataGrid_y3y0n17DS_UsrWebServerPurpose.Value" Value="Purpose" />
+			<Item Name="LocalizableStrings.DiagnosticsInformationMenuItem_caption.Value" Value="Diagnostics information" />
+			<Item Name="LocalizableStrings.ExpansionPanel_5cobamm_title.Value" Value="Cases" />
+			<Item Name="LocalizableStrings.ExpansionPanel_hcn8qen_title.Value" Value="Users" />
+			<Item Name="LocalizableStrings.ExpansionPanel_lb03rx7_title.Value" Value="Maintenance Window" />
+			<Item Name="LocalizableStrings.ExpansionPanel_lgh20nk_title.Value" Value="Update History" />
+			<Item Name="LocalizableStrings.ExpansionPanel_r4wkwdj_title.Value" Value="Requests" />
+			<Item Name="LocalizableStrings.ExpansionPanel_vf5ci33_title.Value" Value="TeamCity Logs" />
+			<Item Name="LocalizableStrings.FlushRedisMenuItem_caption.Value" Value="Flush Redis" />
+			<Item Name="LocalizableStrings.GetDatabaseAccessMenuItem_caption.Value" Value="Get database access" />
+			<Item Name="LocalizableStrings.GetDumpMemoryMenuItem_caption.Value" Value="Get dump memory" />
+			<Item Name="LocalizableStrings.GetTheLogsMenuItem_caption.Value" Value="Get the logs" />
+			<Item Name="LocalizableStrings.GridDetail_mj2gcngDS_CurrentEndTime.Value" Value="Current end time" />
+			<Item Name="LocalizableStrings.GridDetail_mj2gcngDS_CurrentStartTime.Value" Value="Current start time" />
+			<Item Name="LocalizableStrings.GridDetail_mj2gcngDS_EndTime.Value" Value="End time (UTC)" />
+			<Item Name="LocalizableStrings.GridDetail_mj2gcngDS_StartTime.Value" Value="Start time (UTC)" />
+			<Item Name="LocalizableStrings.GridDetail_obdvn2yDS_AccountType.Value" Value="Type" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_jb4aof0_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_pxc7cpl_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_xwa3yig_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_76m3uqz_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_9fwahve_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_crkoh2b_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_jmu309p_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_xmkg9js_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_1k2s2n9_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_6k4nmhu_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_hjuyswr_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_uqz9q7g_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_w46pkir_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_03pb98k_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_3d72o9l_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_g8f1e78_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_l3lg553_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ozdqfiw_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_qnabl3b_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_3nkgn1d_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_c17ibjf_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_ce6bfda_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_onc5fth_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_5en5yte_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_asbjvwo_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_eu2poa3_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_u0m8hdy_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_y6v77gz_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.IndicatorWidget_0bhlte1_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_0bhlte1_title.Value" Value="S3 Size (MB)" />
+			<Item Name="LocalizableStrings.IndicatorWidget_wow9hjz_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.IndicatorWidget_wow9hjz_title.Value" Value="DB Size (MB)" />
+			<Item Name="LocalizableStrings.InstallPackagesMenuItem_caption.Value" Value="Install packages" />
+			<Item Name="LocalizableStrings.Label_pjq4ra4_caption.Value" Value="Technical Landscape" />
+			<Item Name="LocalizableStrings.MoveDemoSiteMenuItem_caption.Value" Value="Move demo site" />
+			<Item Name="LocalizableStrings.PasswordResetMenuItem_caption.Value" Value="Password reset" />
+			<Item Name="LocalizableStrings.RegistrationInRemoteAccessOnSiteMenuItem_caption.Value" Value="Registration in Remote access OnSite" />
+			<Item Name="LocalizableStrings.RestartSiteMenuItem_caption.Value" Value="Restart site" />
+			<Item Name="LocalizableStrings.ShowAccessListMenuItem_caption.Value" Value="Show access list" />
+			<Item Name="LocalizableStrings.TabContainer_heenplx_caption.Value" Value="History" />
+			<Item Name="LocalizableStrings.TabContainer_t9vd95e_caption.Value" Value="Version Update" />
+			<Item Name="LocalizableStrings.TeamCityActionsPolicyMenuItem_caption.Value" Value="TeamCity actions policy" />
+			<Item Name="LocalizableStrings.WebisteVersionUpdateMenuItem_caption.Value" Value="Website version update" />
+			<Item Name="LocalizableStrings.WebsiteRelicensingMenuItem_caption.Value" Value="Website relicensing" />
+			<Item Name="LocalizableStrings.WebsiteRelicensingNoRedisFlushMenuItem_caption.Value" Value="Website relicensing (no Redis flush)" />
+			<Item Name="LocalizableStrings.WebsiteServicesButton_caption.Value" Value="Website services" />
+		</Items>
+	</Group>
+</Resources>

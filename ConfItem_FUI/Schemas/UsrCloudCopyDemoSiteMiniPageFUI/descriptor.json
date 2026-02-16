@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d1a3c09a-4b0d-440f-b431-8fcedc803193",
+    "Name": "UsrCloudCopyDemoSiteMiniPageFUI",
+    "ModifiedOnUtc": "\/Date(1770894161000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Cloud copy demo site mini page Freedom UI",
+    "DependsOn": []
+  }
+}

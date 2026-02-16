@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.BpmonlineLcz.Caption" Value="Localization" />
+			<Item Name="Columns.DBSizeMB.Caption" Value="Total size (MB)" />
+			<Item Name="Columns.IsWebfarm.Caption" Value="Web Farm" />
+			<Item Name="Columns.ParentConfItem.Caption" Value="Server Block" />
+			<Item Name="Columns.UserDataSizeMB.Caption" Value="Billable size (MB)" />
+			<Item Name="Columns.UsrBackupStrategy.Caption" Value="Backup Strategy" />
+			<Item Name="Columns.UsrDBClouster.Caption" Value="DB Cluster" />
+			<Item Name="Columns.UsrDBServer.Caption" Value="DB Server" />
+			<Item Name="Columns.UsrWebServer.Caption" Value="Web Server" />
+		</Items>
+	</Group>
+</Resources>

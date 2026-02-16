@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Temporary external access" />
+			<Item Name="Columns.UsrAccessId.Caption" Value="Access Id" />
+			<Item Name="Columns.UsrCustomerId.Caption" Value="Customer Id" />
+			<Item Name="Columns.UsrDescription.Caption" Value="Description" />
+			<Item Name="Columns.UsrExpirationDate.Caption" Value="Expiration date" />
+			<Item Name="Columns.UsrIsDataIsolationEnabled.Caption" Value="Data access denied" />
+			<Item Name="Columns.UsrIsSystemOpearationsRestricted.Caption" Value="Configuration denied" />
+			<Item Name="Columns.UsrUrl.Caption" Value="Url" />
+		</Items>
+	</Group>
+</Resources>

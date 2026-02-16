@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0919172b-fc3b-489b-baba-80a172832e13",
+    "Name": "UsrBackupStrategy",
+    "ModifiedOnUtc": "\/Date(1767784099000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Backup Strategy",
+    "DependsOn": []
+  }
+}

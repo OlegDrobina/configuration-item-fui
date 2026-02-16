@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.3ff82443-39cd-87cc-37af-8f618bbdff96.Caption" Value="Show DB Server Field" />
+			<Item Name="AddonConfig.Rules.95cd1f2b-67b0-9dbd-9e32-e83ebbbf9cbf.Caption" Value="Show DB Server Nodes Grid" />
+			<Item Name="AddonConfig.Rules.ba9bae22-79f2-4c25-69d1-ec323fc471b1.Caption" Value="Show Web Server Field" />
+			<Item Name="AddonConfig.Rules.beeabd47-9c76-5f2d-b86a-70e88796c612.Caption" Value="Show Web Server Nodes Grid" />
+			<Item Name="Caption" Value="Configuration item form page V2 (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

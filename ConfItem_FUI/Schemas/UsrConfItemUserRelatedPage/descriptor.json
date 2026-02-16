@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "741ebd1d-979f-44dc-8a3d-27c3fe9d0ab9",
+    "Name": "UsrConfItemUserRelatedPage",
+    "ModifiedOnUtc": "\/Date(1767779190000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "CI user (Page settings)",
+    "DependsOn": []
+  }
+}

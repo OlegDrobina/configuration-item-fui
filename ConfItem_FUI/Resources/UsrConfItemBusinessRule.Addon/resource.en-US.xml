@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.6893c9ea-bb9e-6a05-8741-99d1fd350a57.Caption" Value="Apply static filter: Server Block" />
+			<Item Name="AddonConfig.Rules.b831df9a-41b7-abab-c923-5753bd19ada6.Caption" Value="Filter WebServer field" />
+			<Item Name="AddonConfig.Rules.c48f49f1-9f39-182c-efbf-bb6a4ee77853.Caption" Value="Status: Add filter by Active" />
+			<Item Name="AddonConfig.Rules.f93c0344-08fb-6362-b034-4f2485556962.Caption" Value="Apply static filter: Installation package" />
+			<Item Name="Caption" Value="Configuration item (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

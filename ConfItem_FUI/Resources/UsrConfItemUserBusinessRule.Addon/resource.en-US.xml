@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.9c27ad96-a4b0-6d32-46fe-d031bab0dd0d.Caption" Value="Set values: Type (2)" />
+			<Item Name="AddonConfig.Rules.e3962bd4-038b-06d1-43e6-5f49d5ddb370.Caption" Value="Set values: Type" />
+			<Item Name="Caption" Value="CI user (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

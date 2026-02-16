@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "72c906f2-f183-42f8-ae58-b360da7cf186",
+    "Name": "UsrTemporaryExternalAccessExecutor",
+    "ModifiedOnUtc": "\/Date(1770121133000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Temporary external access executor",
+    "DependsOn": []
+  }
+}

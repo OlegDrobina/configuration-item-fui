@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = ConfItem_FUI
+build_property.ProjectDir = C:\LocalOnSites\LocalWork\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\ConfItem_FUI\Files\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

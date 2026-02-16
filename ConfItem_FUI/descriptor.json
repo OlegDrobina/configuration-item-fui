@@ -1,0 +1,37 @@
+﻿{
+  "Descriptor": {
+    "UId": "de472341-968f-d444-920d-8b32430eb1b6",
+    "Name": "ConfItem_FUI",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1770812418000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/ConfItem_FUI.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      },
+      {
+        "UId": "12f15b51-4e1f-4a8e-bdec-b488dfe57d34",
+        "PackageVersion": "7.8.0",
+        "Name": "SupportTeamCity"
+      },
+      {
+        "UId": "70eaea0f-dc46-450b-9f71-a1d6679b5304",
+        "Name": "WorkCIUpdate"
+      },
+      {
+        "UId": "97f171a4-0b52-4307-8364-288a3fefc304",
+        "PackageVersion": "7.8.0",
+        "Name": "WorkExternalAccess"
+      },
+      {
+        "UId": "f969db70-8c34-43c9-94a5-94fca9721541",
+        "PackageVersion": "7.8.0",
+        "Name": "WorkConfItem"
+      }
+    ]
+  }
+}

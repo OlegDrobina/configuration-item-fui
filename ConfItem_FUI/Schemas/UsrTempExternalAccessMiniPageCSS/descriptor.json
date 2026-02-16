@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f4d6550e-1785-4d04-b9c8-8a0376b1e44f",
+    "Name": "UsrTempExternalAccessMiniPageCSS",
+    "ModifiedOnUtc": "\/Date(1770724800000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Temporary external access mini page CSS",
+    "DependsOn": []
+  }
+}

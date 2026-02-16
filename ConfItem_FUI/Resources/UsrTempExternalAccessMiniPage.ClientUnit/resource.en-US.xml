@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Temporary external access mini page" />
+			<Item Name="LocalizableStrings.CancelButton_caption.Value" Value="Cancel" />
+			<Item Name="LocalizableStrings.Label_xgl1e3e_caption.Value" Value="Login to client's site" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="You are accessing a system that may be storing personal data. The access can only be used for providing technical support services or ensuring the platform operates properly. It is not permitted to use the access to download, copy, or otherwise alter the data. Changes, deletion, or other actions toward personal data are allowed only in case of implicit permission from the customer for specific actions." />
+			<Item Name="Parameters.f78dcf0f-8c3d-4d37-c756-dca6c154a82f.Caption" Value="Customer Id" />
+		</Items>
+	</Group>
+</Resources>

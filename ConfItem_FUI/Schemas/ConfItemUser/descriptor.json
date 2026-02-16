@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "14f0968d-d0d6-4b68-8922-c42737b3eea3",
+    "Name": "ConfItemUser",
+    "ModifiedOnUtc": "\/Date(1769781759000)\/",
+    "Parent": {
+      "UId": "20c3c5b2-70d1-4c96-beec-2ee29fd4b283",
+      "Name": "ConfItemUser"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "CI user",
+    "DependsOn": []
+  }
+}

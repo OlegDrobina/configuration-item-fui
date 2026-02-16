@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "85bb18a7-cd0b-443b-83a1-90d2c52193c0",
+    "Name": "UsrConfItemBusinessRule",
+    "ModifiedOnUtc": "\/Date(1768380270000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Configuration item (Business rules)",
+    "DependsOn": []
+  }
+}

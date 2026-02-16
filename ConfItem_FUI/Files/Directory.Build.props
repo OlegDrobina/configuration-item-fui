@@ -1,0 +1,11 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/ConfItem_FUI/Schemas/ConfItem/ConfItem.cs" Condition="Exists('$(PkgPath)/ConfItem_FUI/Schemas/ConfItem/ConfItem.cs')" />
+		<Compile Include="$(PkgPath)/ConfItem_FUI/Schemas/ConfItemUser/ConfItemUser.cs" Condition="Exists('$(PkgPath)/ConfItem_FUI/Schemas/ConfItemUser/ConfItemUser.cs')" />
+		<Compile Include="$(PkgPath)/ConfItem_FUI/Schemas/UsrBackupStrategy/UsrBackupStrategy.cs" Condition="Exists('$(PkgPath)/ConfItem_FUI/Schemas/UsrBackupStrategy/UsrBackupStrategy.cs')" />
+		<Compile Include="$(PkgPath)/ConfItem_FUI/Schemas/UsrDBServers/UsrDBServers.cs" Condition="Exists('$(PkgPath)/ConfItem_FUI/Schemas/UsrDBServers/UsrDBServers.cs')" />
+		<Compile Include="$(PkgPath)/ConfItem_FUI/Schemas/UsrTempExternalAccess/UsrTempExternalAccess.cs" Condition="Exists('$(PkgPath)/ConfItem_FUI/Schemas/UsrTempExternalAccess/UsrTempExternalAccess.cs')" />
+		<Compile Include="$(PkgPath)/ConfItem_FUI/Schemas/UsrWebServerPurpose/UsrWebServerPurpose.cs" Condition="Exists('$(PkgPath)/ConfItem_FUI/Schemas/UsrWebServerPurpose/UsrWebServerPurpose.cs')" />
+		<Compile Include="$(PkgPath)/ConfItem_FUI/Schemas/UsrWebServers/UsrWebServers.cs" Condition="Exists('$(PkgPath)/ConfItem_FUI/Schemas/UsrWebServers/UsrWebServers.cs')" />
+	</ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "64dc6d9f-fe8c-4ba2-bca9-a10b7a430550",
+    "Name": "UsrConfItemFUI_ListPage",
+    "ModifiedOnUtc": "\/Date(1768404218000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Configuration Items FUI list page",
+    "DependsOn": []
+  }
+}

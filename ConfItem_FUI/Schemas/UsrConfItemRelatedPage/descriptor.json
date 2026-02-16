@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7759409f-6bd1-4ab4-9667-ec9a6903fd07",
+    "Name": "UsrConfItemRelatedPage",
+    "ModifiedOnUtc": "\/Date(1768212105000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Configuration item (Page settings)",
+    "DependsOn": []
+  }
+}

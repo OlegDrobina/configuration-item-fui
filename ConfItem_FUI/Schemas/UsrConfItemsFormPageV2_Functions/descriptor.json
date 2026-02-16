@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a3cabb4e-e15e-4b46-af9e-03c05ea6d214",
+    "Name": "UsrConfItemsFormPageV2_Functions",
+    "ModifiedOnUtc": "\/Date(1770815443000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Configuration item form page V2 Functions",
+    "DependsOn": []
+  }
+}

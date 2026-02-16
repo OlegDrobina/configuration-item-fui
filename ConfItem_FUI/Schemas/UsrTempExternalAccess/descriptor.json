@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e21a42c5-d549-4002-9a61-b9bfaf90fe92",
+    "Name": "UsrTempExternalAccess",
+    "ModifiedOnUtc": "\/Date(1770119973000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Temporary external access",
+    "DependsOn": []
+  }
+}
